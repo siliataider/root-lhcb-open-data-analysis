@@ -14,7 +14,9 @@ Here we demonstrate an alternative implementation of the solution rewritten with
 - `distrdf_solution/`  
   Contains a notebook implementing the analysis using ROOT distributed RDataFrame.
 
-- Input data files can be downloaded from the original repository:  
+- `data/`  
+  Download the input data and place it in this folder.
+  Input data files can be downloaded from the original repository:  
   [UoM_MatterAntimatterLab/postBuild](https://github.com/gersabec/UoM_MatterAntimatterLab/blob/master/postBuild)
 
 - `outputs/`  
