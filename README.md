@@ -22,6 +22,9 @@ Here we demonstrate an alternative implementation of the solution rewritten with
 - `outputs/`  
   Folder to store generated histograms and plots.
 
+- `benchmarks/`  
+  Folder to store results of performance comparison between the original analysis and the RDataFrame based analysis.
+  
 ## Original repository
 
 This project is based on the original University of Manchester lab:  
