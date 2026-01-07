@@ -12,7 +12,7 @@ Here we demonstrate an alternative implementation of the solution rewritten with
   Contains a notebook implementing the analysis using ROOT RDataFrame.
 
 - `distrdf_solution/`  
-  Contains a notebook implementing the analysis using ROOT distributed RDataFrame.
+  Contains a notebook implementing the analysis using ROOT distributed RDataFrame using a Dask Client.
 
 - `data/`  
   Download the input data and place it in this folder.
