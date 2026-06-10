@@ -1,0 +1,8 @@
+ROOT
+mplhep
+scipy
+distributed
+dask
+ipykernel
+numpy
+matplotlib
