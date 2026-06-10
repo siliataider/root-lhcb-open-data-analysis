@@ -1,0 +1,14 @@
+name: lhcb_open_analysis
+channels:
+  - defaults
+dependencies:
+  - python=3.14
+  - mplhep
+  - scipy
+  - distributed
+  - dask
+  - ipykernel
+  - numpy
+  - matplotlib
+  - root
+prefix: /home/user/miniconda3/envs/lhcb_open_analysis
