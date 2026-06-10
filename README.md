@@ -3,6 +3,13 @@
 This repository contains an example analysis of LHCb open data from the University of Manchester undergraduate laboratory project on matter-antimatter asymmetries. 
 Here we demonstrate an alternative implementation of the solution rewritten with ROOT.
 
+## Setup
+- Download the prerequisite root files into the `data/` folder as described below
+- If using `conda`:
+    - Create a conda environment for this project: `conda env create -f environment.yml`
+    - Activate the newly created environment: `conda activate lhcb_open_analysis`
+    - Register the environment as a Jupyter kernel: `python -m ipykernel install --user --name lhcb_open_analysis`
+
 ## Structure
 
 - `original_solution/`  
