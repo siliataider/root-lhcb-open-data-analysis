@@ -1,6 +1,6 @@
 name: lhcb_open_analysis
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - python=3.14
   - mplhep
@@ -11,4 +11,3 @@ dependencies:
   - numpy
   - matplotlib
   - root
-prefix: /home/user/miniconda3/envs/lhcb_open_analysis
